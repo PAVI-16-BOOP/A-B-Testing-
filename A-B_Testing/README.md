@@ -11,6 +11,12 @@ Our core question was: Does the new design significantly increase CTR above our 
 
 The goal was to achieve a meaningful lift in CTR over the baseline. In business terms, we set a Minimum Detectable Effect (MDE) of 10 percentage points
 . In other words, we needed at least a 10‑point increase in CTR (from ~19.9% to ~29.9%) to consider the change worthwhile. 
+
+## Experiment Results
+
+![Initial CTRs Condition](Screenshot%202026-01-08%20225516.png)
+
+
 This MDE represented the smallest improvement our stakeholders cared about, ensuring that any detected effect would have practical value.
 
 *Methods*
